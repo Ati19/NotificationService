@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="20618e7a-38b8-413d-b756-9b84394c78d6" />
+    <option name="openSessionIds">
+      <list>
+        <option value="a0be1fcc-5936-4d4c-aa4d-25a7d71b8422" />
+        <option value="831eec2f-0888-4a4b-bd53-9e721dc0dd7e" />
+        <option value="9c8e7a58-7901-4e03-9400-683a6a30043e" />
+        <option value="222a879e-e6b4-477f-993c-c8713a1e6bcf" />
+        <option value="9aeaf042-66ee-4c5c-be74-8b8654f83a25" />
+        <option value="37d427b4-bf5c-4345-b4f5-7eb4d6ee876c" />
+        <option value="4d1dd38b-ec4b-4c4d-ba0a-b188d5fd157e" />
+        <option value="20618e7a-38b8-413d-b756-9b84394c78d6" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="20618e7a-38b8-413d-b756-9b84394c78d6" value="/sessions/4cfb99ac-255a-4d24-a57b-fbb6a712df94" />
+        <entry key="222a879e-e6b4-477f-993c-c8713a1e6bcf" value="/sessions/46abfd9b-8869-412e-a5ee-1a39397ead2e" />
+        <entry key="37d427b4-bf5c-4345-b4f5-7eb4d6ee876c" value="/sessions/5c4ba579-98ce-4b09-ba02-4e77ebfb58fc" />
+        <entry key="4d1dd38b-ec4b-4c4d-ba0a-b188d5fd157e" value="/sessions/4cfb99ac-255a-4d24-a57b-fbb6a712df94" />
+        <entry key="831eec2f-0888-4a4b-bd53-9e721dc0dd7e" value="/sessions/58c4c663-9ed2-4be5-8836-61692c213763" />
+        <entry key="9aeaf042-66ee-4c5c-be74-8b8654f83a25" value="/sessions/f7a5e683-5e07-4f91-8e06-01df097f2c1b" />
+        <entry key="9c8e7a58-7901-4e03-9400-683a6a30043e" value="/sessions/46abfd9b-8869-412e-a5ee-1a39397ead2e" />
+        <entry key="a0be1fcc-5936-4d4c-aa4d-25a7d71b8422" value="/sessions/58c4c663-9ed2-4be5-8836-61692c213763" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="20618e7a-38b8-413d-b756-9b84394c78d6" value="API curl test commands" />
+        <entry key="222a879e-e6b4-477f-993c-c8713a1e6bcf" value="Partner share configuration API" />
+        <entry key="37d427b4-bf5c-4345-b4f5-7eb4d6ee876c" value="Country-wise partners and shares" />
+        <entry key="4d1dd38b-ec4b-4c4d-ba0a-b188d5fd157e" value="API curl test commands" />
+        <entry key="831eec2f-0888-4a4b-bd53-9e721dc0dd7e" value="New project module scaffold" />
+        <entry key="9aeaf042-66ee-4c5c-be74-8b8654f83a25" value="Notification service HTTP APIs" />
+        <entry key="9c8e7a58-7901-4e03-9400-683a6a30043e" value="Partner share configuration API" />
+        <entry key="a0be1fcc-5936-4d4c-aa4d-25a7d71b8422" value="New project module scaffold" />
+      </map>
+    </option>
+  </component>
+</project>
